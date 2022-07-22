@@ -1,2 +1,1 @@
-#!/bin/bash
-Herein lies the description of each individual scripts
+This is a task on shell, init files,variables and expansions
